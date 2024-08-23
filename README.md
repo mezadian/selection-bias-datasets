@@ -1,2 +1,2 @@
 # selection-bias-datasets
-The data files, README file, and code describe the research results for the manuscript: "Correcting for selection bias in mutation accumulation experiments: Bias is amplified when rare lineages may be lost.
+The data files, README file, and simulation codes describe the research results presented in the manuscript titled "Correcting for Selection Bias in Mutation Accumulation Experiments: Bias is Amplified When Rare Lineages May Be Lost".
